@@ -105,3 +105,5 @@ Step 5. In activity or fragment
             }
             
  Source : http://codezlab.com/add-to-cart-fly-animation/            
+
+![](animation.gif)
